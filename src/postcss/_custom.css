@@ -1,5 +1,10 @@
 /* your css goes here! */
 
 body {
-    background-color: blue;
+    background-color: #235421;
+    color: white;
+}
+p {
+	color: #656571;
+	text-align: center;
 }
